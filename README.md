@@ -6,7 +6,7 @@ This repository is the official implementation page for the paper:
 
 ## Overview
 
-SK-BVD is a behavior-aware multimodal vulnerability detection framework that incorporates LLM-generated structured expert knowledge into source-code vulnerability detection. The method integrates source-code semantics, structured expert knowledge, and program graph information to support vulnerability detection, line-level vulnerability localization, and CWE type identification.
+SK-BVD is a behavior-aware multimodal vulnerability detection framework that incorporates LLM-generated structured expert knowledge into source-code vulnerability detection. The method integrates source-code semantics, structurehttps://github.com/guoshaotong/SK-BVD/settingsd expert knowledge, and program graph information to support vulnerability detection, line-level vulnerability localization, and CWE type identification.
 
 ## Release Plan
 
@@ -27,7 +27,7 @@ The repository will include:
 
 ## Datasets
 
-This work uses publicly available vulnerability detection datasets, including Devign, ReVeal, and a sampled subset derived from BigVul. Due to dataset licenses and storage considerations, raw datasets may not be redistributed directly in this repository. Instead, we will provide preprocessing scripts and detailed instructions for preparing the data.
+This work uses publicly available vulnerability detection datasets, including Devign, ReVeal, and a sampled subset derived from BigVul. We will provide preprocessing scripts and detailed instructions for preparing the data.
 
 ## Citation
 
